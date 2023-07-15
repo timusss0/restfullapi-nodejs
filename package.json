@@ -1,0 +1,19 @@
+{
+  "name": "restfull-apinodejs",
+  "version": "1.0.0",
+  "description": "belajar restfull api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timusss0/restfullapi-nodejs.git"
+  },
+  "author": "tia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timusss0/restfullapi-nodejs/issues"
+  },
+  "homepage": "https://github.com/timusss0/restfullapi-nodejs#readme"
+}
